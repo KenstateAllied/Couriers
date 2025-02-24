@@ -36,7 +36,7 @@ require '../dbconfig/config.php';
         <div class="container">
                 <!--- logo ----->
                 <div class="logo">
-                    <img src="../images/logo45.png" alt="Logo"  /> <a href="../index.php"><span></span>TYC</a>
+                    <img src="../images/logo45.png" alt="Logo"  /> <a href="../index.php"><span></span>Blue Logistics</a>
                 </div>
                 <!--- logo ----->
 <!--- top-nav ----->
@@ -263,9 +263,9 @@ require '../dbconfig/config.php';
                             <div class="top-footer-grid">
                                     <h3>Contact us</h3>
                                     <ul class="address">
-                                        <li><span class="map-pin"> </span><label>AP Kanvide Bhawan <br>3122 3 Chatrawaas <br>Near Powai Lake, Bhopal MP (462003) </label></li>
-                                        <li><span class="mob"> </span>Ph & Fax no - 0995-5377130, Mob- 8000000008</li>
-                                        <li><span class="msg"> </span><a href="#">hello@tyc.in</a></li>
+                                        <li><span class="map-pin"> </span><label>Westlands Nairobi, Eldoret Kenya </label></li>
+                                        <li><span class="mob"> </span>Tel/ WhatsApp +254 724 052 417</li>
+                                        <li><span class="msg"> </span><a href="#">kenstatellc@gmail.com</a></li>
                                     </ul>
                             </div>
                             <div class="top-footer-grid">
@@ -296,7 +296,7 @@ require '../dbconfig/config.php';
             <div class="container"> 
                     <div class="bottom-footer-left">
                         
-                             <p> &copy; 2017 TYC.in. All rights reserved | Powered by: <a href="http://www.facebook.com/shivtelo" target="_blank">Techvish Technologies</a></p>
+                             <p> &copy; Blue Logistics All rights reserved | Powered by: <a href="http://www.facebook.com/shivtelo" target="_blank">Kenstate Allied</a></p>
                     </div>
                     <div class="clear"> </div>
             </div>
